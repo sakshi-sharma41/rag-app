@@ -1,0 +1,7 @@
+# Ignore the db directory
+db/
+
+# Ignore Python cache files
+__pycache__/
+
+.env
